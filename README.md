@@ -43,3 +43,10 @@ Upload your file → Ask a question → Get instant AI answer + charts!
 | python-dotenv | API key security |
 
 ## 📁 Project Structure
+statbot/
+├── app.py          → Main web application
+├── agent.py        → AI brain (Groq + LLaMA)
+├── data_loader.py  → CSV/Excel file reader
+├── visualizer.py   → Chart generator
+├── sample_data.csv → Test dataset
+└── .env            → API key (not uploaded)
