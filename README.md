@@ -50,3 +50,25 @@ statbot/
 ├── visualizer.py   → Chart generator
 ├── sample_data.csv → Test dataset
 └── .env            → API key (not uploaded)
+## 🌍 Real World Applications
+- 📦 Business → Sales and profit analysis
+- 🏥 Healthcare → Patient data insights
+- 🎓 Education → Student performance tracking
+- 🏦 Finance → Transaction analysis
+- 🛒 Retail → Inventory management
+
+## 🚀 Future Improvements
+- PDF report export
+- Voice input for questions
+- Multiple CSV file comparison
+- Cloud deployment
+- User authentication system
+
+## 👩‍💻 Built By
+**Chandana Chemuru**
+B.Tech CSE (AI & ML) — 3rd Year
+Sri Venkateswara College of Engineering, Tirupati
+
+## 📬 Connect
+- GitHub: chandanachemuru9-png
+- LinkedIn: https://www.linkedin.com/in/chemuru-chandana-28a5a22a7
